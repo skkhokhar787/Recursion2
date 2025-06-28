@@ -10,7 +10,7 @@ public class Occurrence {
             System.out.println("Last Occurrence: " + last);
             return;
         }
-
+        // Check the current character at index idx
         char currentChar = str.charAt(idx);
         if (currentChar == ele) {
             if (first == -1) {
