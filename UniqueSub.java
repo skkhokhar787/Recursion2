@@ -11,7 +11,6 @@ public class UniqueSub {
                 return;
             }
         }
-
         char currentChar = str.charAt(idx);
         // to be
         printSubSeq(str, idx+1, newStr+currentChar,set);
