@@ -1,4 +1,4 @@
-public class Occurance {
+public class Occurrence {
     public static int first = -1;
     public static int last = -1;
 
