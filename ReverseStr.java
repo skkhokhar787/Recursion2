@@ -10,7 +10,7 @@ public class ReverseStr {
     public static  void main (String [] args) {
      String str = "abc";
         printRev(str, str.length() - 1);
-        System.out.println(); // For a new line after printing the reversed string
+
 
     }
 }
